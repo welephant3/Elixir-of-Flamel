@@ -1,6 +1,9 @@
 # 프로젝트 이름
 **Elixir-of-Flamel**
 
+## 플레이 링크
+https://welephant3.itch.io/elixir-of-flamel
+
 ## 📖 목차
 1. [프로젝트 소개](#프로젝트-소개)
 2. [개발기간](#개발기간)
@@ -55,6 +58,9 @@ Grid & NavMeshPlus|디펜스 스테이지에서 건축물을 설치하고, 매�
     
   - 데이터저장</br>  
     ![저장](https://github.com/user-attachments/assets/51c54d06-e2de-4093-a84a-e72a04faf5e9) </br>
+
+  - 채집아이템 외곽선 표시</br>
+    ![Honeycam 2024-08-22 01-56-04](https://github.com/user-attachments/assets/5cbf03e5-8623-40a5-9641-54d33133747e)
     
   - UI 및 기능
     ![인게임UI](https://github.com/user-attachments/assets/30d1792e-c26c-4d9b-813d-0e7f6cd1d04b) </br>    
